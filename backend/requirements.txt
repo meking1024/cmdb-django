@@ -1,0 +1,12 @@
+# Runtime dependencies for the active Django API + Streamlit application
+Django==5.0.3
+djangorestframework==3.14.0
+django-cors-headers==4.3.1
+django-filter==24.2
+drf-spectacular==0.27.0
+python-decouple==3.8
+psycopg2-binary==2.9.9
+PyJWT==2.8.0
+streamlit==1.65.0
+pandas>=1.5.3,<4
+pyarrow==21.0.0
